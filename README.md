@@ -27,13 +27,11 @@ data--can be a more cost-effective and practical data source to predict future p
 
 **APPROACH**: 10 minutes of past power production data are used to predict the next 10 minutes of future
 power production. The open-source ‘Wind Turbine Scada Dataset’ is used from
-Kaggle, and are compared with state-of-the-art weather-based models and Kaggle’s top-
-voted submission using the coefficient of determination (r2 ). 
+Kaggle, and are compared with state-of-the-art weather-based models.
 
 **BEST MODELS:** All of the models of this study
-outperformed the state-of-the-art Kaggle submission, with the highest r 2 score of 0.97 with a
-simple neural network. Furthermore, the models also beat numerous state-of-the-art weather-
-based models.
+outperformed the state-of-the-art models, with the highest r2 score of 0.97 with a
+simple neural network. 
 
 **PROJECT IMPLICATIONS:** Thus, by checking all three criteria (high accuracy, cost-effectiveness,
 practicality of data collection), we demonstrate a novel, highly efficient alternative for

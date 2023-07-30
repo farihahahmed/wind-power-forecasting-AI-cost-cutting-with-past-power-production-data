@@ -1,5 +1,6 @@
 # Developing cost-effective, practical, accurate non-weather-based wind power production forecasting AI models
 
+See INSTRUCTIONS.md
 
 **Authors:** Farihah Ahmed (Columbia University) and Mauricio Hernandez (Duke University)
 
